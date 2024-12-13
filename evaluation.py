@@ -7,6 +7,7 @@ from data_cleaning import *
 from main_algorithm import *
 from functions import *
 from msm_functions import *
+from evaluation import *
     
 def bootstrap_samples_lsh(data, ratio, number_bootstrap, b_r_comb, seed):
     results_lsh = []
