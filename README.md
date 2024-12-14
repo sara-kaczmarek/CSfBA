@@ -12,7 +12,7 @@ Below, find the descriptions of the scripts for data cleaning, improved data cle
 ## Components
 
 ### *Data Cleaning*
-- The 'data_cleaning.py' script contains functions to clean the data as proposed in previous work on MSMP+ that is used as baseline.
+- The ''data_cleaning.py'' script contains functions to clean the data as proposed in previous work on MSMP+ that is used as baseline.
 - The 'data_cleaning_improved.py' file contains an improved version of the cleaning procedure with additional steps and data manipulation. 
 
 ### *Main Algorithm*
